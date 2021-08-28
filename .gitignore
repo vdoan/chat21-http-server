@@ -3,3 +3,6 @@ deploy.sh
 log.sh
 .gitignore
 .env
+
+logs/
+.idea/
